@@ -8,6 +8,7 @@ Implementing Simple and Multiple Linear Regression models.
 Evaluating model performance using metrics like MAE, MSE, and R².
 Visualizing regression lines and residuals.
 Interpreting model coefficients.
+
 🗂️ Project Structure
 ├── linear_regression.py / linear_regression.ipynb ├── dataset.csv ├── plots/ │ ├── regression_line.png │ └── residuals_plot.png ├── requirements.txt └── README.md
 
